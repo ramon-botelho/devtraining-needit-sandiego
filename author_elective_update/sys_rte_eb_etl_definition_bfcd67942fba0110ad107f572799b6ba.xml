@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_definition">
+    <sys_rte_eb_etl_definition action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>x</name>
+        <sys_class_name>sys_rte_eb_etl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 00:33:18</sys_created_on>
+        <sys_id>bfcd67942fba0110ad107f572799b6ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_definition_bfcd67942fba0110ad107f572799b6ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 00:33:18</sys_updated_on>
+    </sys_rte_eb_etl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>22ee4b15db56334007072f17d496190a</instance_id>
+        <instance_name>dev88704</instance_name>
+        <name>sys_rte_eb_etl_definition_bfcd67942fba0110ad107f572799b6ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_definition"><sys_rte_eb_etl_definition action="INSERT_OR_UPDATE"><active>true</active><description/><name>x</name><sys_class_name>sys_rte_eb_etl_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-08 00:33:18</sys_created_on><sys_id>bfcd67942fba0110ad107f572799b6ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_rte_eb_etl_definition_bfcd67942fba0110ad107f572799b6ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-08 00:33:18</sys_updated_on></sys_rte_eb_etl_definition></record_update>]]></payload>
+        <payload_hash>1657973046</payload_hash>
+        <record_name>x</record_name>
+        <reverted_from/>
+        <source>17fc225b2f220110ad107f572799b685</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 00:33:18</sys_created_on>
+        <sys_id>4ddd67942fba0110ad107f572799b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1800696f5e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 00:33:18</sys_updated_on>
+        <type>ETL Definition</type>
+        <update_guid>45dd67948cba0110a3b71339e10c56f8</update_guid>
+        <update_guid_history>45dd67948cba0110a3b71339e10c56f8:1657973046</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-08 00:33:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_definition">sys_rte_eb_etl_definition</sys_db_object>
+        <sys_id>1464a6357a30435b8640b2a4cc43e171</sys_id>
+        <sys_metadata>bfcd67942fba0110ad107f572799b6ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_definition_bfcd67942fba0110ad107f572799b6ba</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_definition_bfcd67942fba0110ad107f572799b6ba">4ddd67942fba0110ad107f572799b6f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-08 00:33:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
